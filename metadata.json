@@ -1,0 +1,7 @@
+{
+  "name": "Squad Practice Dashboard",
+  "description": "An interactive HTML & CSS practice dashboard for friends, featuring live code challenges, squad leaderboards, focus timers, and drills styled in green, red, and purple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
